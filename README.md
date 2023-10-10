@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm BigLlama</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m currently working as a bot reviewer [Top.gg](https://top.gg/)
+- 🔭 I’m currently working as a bot reviewer at [Top.gg](https://top.gg/)
 
-- 🌱 I’m currently studying for my degree in Software Engineering **Python, Mobile App Development, Web Development**
+- 🌱 I’m currently studying for my degree in Software Engineering and have experience with **Python, Mobile App Development, Web Development**
 
-- 👨‍💻 All of my projects are available at [https://ruanbriers.com/](https://ruanbriers.com/)
+- 👨‍💻 All of my projects are available at [ruanbriers.com](https://ruanbriers.com/)
 
-- 📫 How to reach me **ruan.briers02@gmail.com**
+- 📫 How to reach me:\n**ruan.briers02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ruan briers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruan briers" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ruan-briers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruan-briers" height="30" width="40" /></a>
 <a href="https://instagram.com/ruanbriers02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ruanbriers02" height="30" width="40" /></a>
 <a href="https://discord.gg/bigllama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bigllama" height="30" width="40" /></a>
 </p>
