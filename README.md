@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm BigLlama</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m currently working as a bot reviewer at [Top.gg](https://top.gg/)
+- 🔭 I’m currently working as a Software Developer at [Digital2DNA]([https://top.gg/](https://digital2dna.com/)
 
-- 🌱 I’m currently studying for my degree in Software Engineering and have experience with **Python, Mobile App Development, Web Development**
+- 🌱 I’ve completed my degree in Software Engineering in 2023 and have experience with **Python, C#, Javascript, Angular**
 
 - 👨‍💻 All of my projects are available at [ruanbriers.com](https://ruanbriers.com/)
 
