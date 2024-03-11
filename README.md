@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm BigLlama</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m currently working as a Software Developer at [Digital2DNA]([https://top.gg/](https://digital2dna.com/)
+- 🔭 I’m currently working as a Software Developer at [Digital2DNA]([https://top.gg/](https://digital2dna.com/))
 
 - 🌱 I’ve completed my degree in Software Engineering in 2023 and have experience with **Python, C#, Javascript, Angular**
 
