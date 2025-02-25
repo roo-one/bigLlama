@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm BigLlama</h1>
+<h1 align="center">Hi 👋, I'm Ruan</h1>
 <h3 align="center">Software Engineer</h3>
 
 - 🔭 I’m currently working as a Software Developer at [Digital2DNA](https://digital2dna.com/)
