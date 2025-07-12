@@ -5,8 +5,6 @@
 
 - 🌱 I’ve completed my degree in Software Engineering in 2023 and have experience with **Python, C#, Javascript, Angular**
 
-- 👨‍💻 All of my projects are available at [ruanbriers.com](https://ruanbriers.com/)
-
 - 📫 How to reach me: <br/>**ruan.briers02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
